@@ -1,0 +1,2 @@
+x = "python is easy"
+print(x)

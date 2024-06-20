@@ -1,0 +1,11 @@
+a = int(input("enter a number "))
+b = int(input("enter another number "))
+c = input("enter your name ")
+
+print(a+b)
+print("hello," ,c)
+# print(c[0])
+# print(c[1])
+# print(c[2])
+# print(c[3])
+print(c[1:3])
